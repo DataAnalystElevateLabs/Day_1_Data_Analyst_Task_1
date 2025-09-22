@@ -2,6 +2,7 @@
 First Task of Data Analyst Internship @ Elevate Labs
 
 problem statement/Guidelines:
+
  1.Identify and handle missing values using .isnull() in Python or filters in Excel.
  
  2.Remove duplicate rows using .drop_duplicates() or Excel’s “Remove Duplicates”.
@@ -15,6 +16,7 @@ problem statement/Guidelines:
  6.Check and fix data types (e.g., age should be int, date as datetime)
 
 Steps followed in Excel:
+
 1.Imported raw dataset Raw_Sales_Data from Kaggle CSV into Excel for cleaning.
 
 2.Checked for nulls and blanks using Filter and COUNTBLANK() to identify missing data.
